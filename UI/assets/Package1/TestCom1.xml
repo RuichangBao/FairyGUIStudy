@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <image id="n0_vpg5" name="n0" src="vpg51" fileName="bg1.jpg" xy="0,0"/>
+    <component id="n1_vpg5" name="n1" src="vpg52" fileName="Button1.xml" xy="561,632" size="100,81"/>
+    <component id="n2_vpg5" name="n2" src="vpg52" fileName="Button1.xml" xy="1163,642" size="100,81"/>
+  </displayList>
+</component>

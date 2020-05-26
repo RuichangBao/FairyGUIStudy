@@ -1,0 +1,19 @@
+{
+	"atlasSetting":{
+		"paging":true,
+		"sizeOption":"pot"
+	},
+	"binaryFormat":true,
+	"codeGeneration":{
+		"classNamePrefix":"UI_",
+		"codePath":"F:\\Users\\Administrator\\FairyGUIStudy\\Client\\Assets\\Scripts\\FairyGUI",
+		"codeType":"",
+		"getMemberByName":false,
+		"ignoreNoname":false,
+		"memberNamePrefix":"m_",
+		"packageName":null
+	},
+	"compressDesc":true,
+	"packageCount":2,
+	"path":"F:\\Users\\Administrator\\FairyGUIStudy\\Client\\Assets\\Resources\\FairyGUI"
+}

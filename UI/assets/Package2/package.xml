@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="cznjof93">
+  <resources>
+    <component id="vpg50" name="TestCom2.xml" path="/" exported="true"/>
+    <image id="vpg51" name="bg1.jpg" path="/"/>
+    <component id="vpg52" name="Button1.xml" path="/"/>
+  </resources>
+  <publish name="Package2" genCode="true"/>
+</packageDescription>
